@@ -1,12 +1,18 @@
 {
-  "name":"AsyncTCP",
+  "name":"AsyncTCPMod",
   "description":"Asynchronous TCP Library for ESP32",
   "keywords":"async,tcp",
   "authors":
-  {
-    "name": "Hristo Gochkov",
-    "maintainer": false
-  },
+  [
+    {
+      "name": "Hristo Gochkov",
+      "maintainer": false
+    },
+    {
+      "name": "Jason Fain",
+      "maintainer": true
+    }
+  ],
   "repository":
   {
     "type": "git",
