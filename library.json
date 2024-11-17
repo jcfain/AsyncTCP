@@ -5,14 +5,14 @@
   "authors":
   {
     "name": "Hristo Gochkov",
-    "maintainer": true
+    "maintainer": false
   },
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/me-no-dev/AsyncTCP.git"
+    "url": "https://github.com/jcfain/AsyncTCP.git"
   },
-  "version": "1.1.1",
+  "version": "1.1.101",
   "license": "LGPL-3.0",
   "frameworks": "arduino",
   "platforms": "espressif32",
